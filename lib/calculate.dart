@@ -25,7 +25,7 @@ class Bmilogic {
 
   String getInterpretation() {
     if (_bmi >= 25) {
-      return 'suuuui a higher than normal body weight. Try to exercise more.\n 💪🚵🚴🏊🏇🏃';
+      return 'ronaldo a higher than normal body weight. Try to exercise more.\n 💪🚵🚴🏊🏇🏃';
     } else if (_bmi >= 18.5) {
       return 'You have a normal body weight. Good job!\n  🍇🍉🍍🍒🌽';
     } else {
